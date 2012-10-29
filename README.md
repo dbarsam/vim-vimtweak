@@ -6,9 +6,9 @@ This code is a personal repackaging of Yasuhiro Matsumoto's [vimtweak.dll](https
 
 Credit & References
 ---------------------
-[vimtweak](https://github.com/mattn/vimtweak)
-[transparency-windows-vim](https://github.com/mattn/transparency-windows-vim)
-[gVimWin32FullScreen](https://github.com/derekmcloughlin/gvimfullscreen_win32)
+- [vimtweak](https://github.com/mattn/vimtweak)
+- [transparency-windows-vim](https://github.com/mattn/transparency-windows-vim)
+- [gVimWin32FullScreen](https://github.com/derekmcloughlin/gvimfullscreen_win32)
 
 Installation
 ------------
